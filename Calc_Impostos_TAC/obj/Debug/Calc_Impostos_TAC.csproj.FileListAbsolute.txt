@@ -1,0 +1,10 @@
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\Calc_Impostos_TAC\bin\Debug\Calc_Impostos_TAC.exe.config
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\Calc_Impostos_TAC\bin\Debug\Calc_Impostos_TAC.exe
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\Calc_Impostos_TAC\bin\Debug\Calc_Impostos_TAC.pdb
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\Calc_Impostos_TAC\obj\Debug\Calc_Impostos_TAC.csprojAssemblyReference.cache
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\Calc_Impostos_TAC\obj\Debug\Calc_Impostos_TAC.Properties.Resources.resources
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\Calc_Impostos_TAC\obj\Debug\Calc_Impostos_TAC.csproj.GenerateResource.cache
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\Calc_Impostos_TAC\obj\Debug\Calc_Impostos_TAC.csproj.CoreCompileInputs.cache
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\Calc_Impostos_TAC\obj\Debug\Calc_Impostos_TAC.exe
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\Calc_Impostos_TAC\obj\Debug\Calc_Impostos_TAC.pdb
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\Calc_Impostos_TAC\obj\Debug\Calc_Impostos_TAC.frmCalcTAC.resources
