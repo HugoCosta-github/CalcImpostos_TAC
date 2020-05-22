@@ -1,0 +1,10 @@
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\CalculadoraFretesTAC\bin\Debug\CalculadoraFretesTAC.exe.config
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\CalculadoraFretesTAC\bin\Debug\CalculadoraFretesTAC.exe
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\CalculadoraFretesTAC\bin\Debug\CalculadoraFretesTAC.pdb
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\CalculadoraFretesTAC\obj\Debug\CalculadoraFretesTAC.csprojAssemblyReference.cache
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\CalculadoraFretesTAC\obj\Debug\CalculadoraFretesTAC.frmCalculadoraFrete.resources
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\CalculadoraFretesTAC\obj\Debug\CalculadoraFretesTAC.Properties.Resources.resources
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\CalculadoraFretesTAC\obj\Debug\CalculadoraFretesTAC.csproj.GenerateResource.cache
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\CalculadoraFretesTAC\obj\Debug\CalculadoraFretesTAC.csproj.CoreCompileInputs.cache
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\CalculadoraFretesTAC\obj\Debug\CalculadoraFretesTAC.exe
+C:\Users\hugo.silva.NC\Documents\Calculadora Impostos TAC\Calc_Impostos_TAC\CalculadoraFretesTAC\obj\Debug\CalculadoraFretesTAC.pdb

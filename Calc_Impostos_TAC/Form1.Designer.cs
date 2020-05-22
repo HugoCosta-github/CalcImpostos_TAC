@@ -219,6 +219,7 @@
             this.Name = "frmCalcTAC";
             this.Text = "Calculadora de Impostos TAC v01";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmCalcTAC_FormClosing);
+            this.Load += new System.EventHandler(this.FrmCalcTAC_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

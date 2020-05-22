@@ -28,7 +28,7 @@ namespace Calc_Impostos_TAC
                 double baseCalculo = ValorFrete * 0.2;
                 double baseCalculoIRRF = ValorFrete * 0.1;
                 double INSS = baseCalculo * 0.11;
-                double SEST_SENAT = baseCalculo * 0.025;
+                double SEST_SENAT = baseCalculo * 0.0125;
 
                 double IRRF = 0;
                 if (baseCalculoIRRF < 1903.98)
@@ -124,6 +124,11 @@ namespace Calc_Impostos_TAC
                     e.Cancel = true;
                 }
             }
+        }
+
+        private void FrmCalcTAC_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
