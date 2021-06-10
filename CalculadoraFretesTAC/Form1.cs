@@ -15,7 +15,7 @@ namespace CalculadoraFretesTAC
         public frmCalculadoraFrete()
         {
             InitializeComponent();
-            this.mskTxbValorCarga.Mask = "999,999.99";
+            this.mskTxbValorCarga.Mask = "99,999.99";
            
         }
 
@@ -24,6 +24,7 @@ namespace CalculadoraFretesTAC
             mskTxbValorCarga.Text = string.Empty;
             txbKm.Text = string.Empty;
             lblValorFrete.Text = string.Empty;
+            cmbTipoFrete.SelectedIndex = -1;
             mskTxbValorCarga.Focus();
         }
 
@@ -49,6 +50,7 @@ namespace CalculadoraFretesTAC
             
             carga.Valor = double.Parse(mskTxbValorCarga.Text);
             carga.Km = int.Parse(txbKm.Text);
+            carga.TipoFrete = cmbTipoFrete.SelectedItem.ToString();
             carga.CalcularFrete();
            
             lblValorFrete.Text = carga.Frete.ToString("C");
@@ -65,7 +67,9 @@ namespace CalculadoraFretesTAC
                 Carregamento carga = new Carregamento();
                 carga.Valor = double.Parse(mskTxbValorCarga.Text);
                 carga.Km = int.Parse(txbKm.Text);
+                carga.TipoFrete = cmbTipoFrete.SelectedItem.ToString();
                 carga.CalcularFrete();
+                
                 
                 lblValorFrete.Text = carga.Frete.ToString("C");
                 mskTxbValorCarga.Focus();
@@ -75,6 +79,11 @@ namespace CalculadoraFretesTAC
         private void FrmCalculadoraFrete_Activated(object sender, EventArgs e)
         {
             mskTxbValorCarga.Focus();
+        }
+
+        private void FrmCalculadoraFrete_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

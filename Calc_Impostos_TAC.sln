@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_Impostos_TAC", "Calc_I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraFretesTAC", "CalculadoraFretesTAC\CalculadoraFretesTAC.csproj", "{DE1A529E-630A-4736-B0B7-450375189CF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraPisoFrete", "CalculadoraPisoFrete\CalculadoraPisoFrete.csproj", "{6D891228-2B61-449E-9A8A-FDE3F43A5DB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DE1A529E-630A-4736-B0B7-450375189CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE1A529E-630A-4736-B0B7-450375189CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE1A529E-630A-4736-B0B7-450375189CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D891228-2B61-449E-9A8A-FDE3F43A5DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D891228-2B61-449E-9A8A-FDE3F43A5DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D891228-2B61-449E-9A8A-FDE3F43A5DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D891228-2B61-449E-9A8A-FDE3F43A5DB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
